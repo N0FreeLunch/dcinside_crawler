@@ -1,0 +1,4 @@
+*.csv
+*.tsv
+*.html
+node_modules
